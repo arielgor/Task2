@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task2_Ariel_Gorovoy</string>
+    <string name="textOnButton">Click Here</string>
+    <string name="textOnTextBox">Number of Clicks: </string>
+</resources>
